@@ -1236,70 +1236,84 @@
 
 
 
-    "category":[
-      {
-        "id": "91", 
-        "title": "Mac",
-        "imagePath": "/images/category/Mac.JPG",
-        "videoPath": "/videos/Mac.mp4"
-      },
-      {
-        "id": "92", 
-        "title": "iPad",
-        "imagePath": "/images/category/iPad.JPG",
-         "videoPath": "/videos/iPad.mp4"
-      },
-      {
-        "id": "93", 
-        "title": "iPhone",
-        "imagePath": "/images/category/iPhone.JPG",
-         "videoPath": "/videos/iPhone.mp4"
-      },
-      {
-        "id": "94", 
-        "title": "Apple-Watch",
-        "imagePath": "/images/category/watch.JPG",
-        "videoPath": "/videos/watch.mp4"
-      },
-      {
-        "id": "95", 
-        "title": "AirPods",
-        "imagePath": "/images/category/AirPods.JPG",
-        "videoPath": "/videos/AirPods.mp4"
-      },
-      {
-        "id": "96", 
-        "title": "AirTag",
-        "imagePath": "/images/category/AirTag.JPG"
-      },
-      {
-        "id": "97", 
-        "title": "Apple-TV-4K",
-        "imagePath": "/images/category/TV.JPG",
-        "videoPath": "/videos/TV-Home.mp4"
-      },
-      {
-        "id": "98", 
-        "title": "HomePod",
-        "imagePath": "/images/category/HomePod.JPG"
-      },
-      {
-        "id": "99", 
-        "title": "Accessories",
-        "imagePath": "/images/category/Accessories.JPG"
-      },
-      {
-        "id": "100", 
-        "title": "Apple-Gift-Card",
-        "imagePath": "/images/category/GiftCard.JPG"
-      }
-    ],
+  "categoryProducts": 
+  [
+    {
+      "details": 
+        {
+          "id": 1,
+          "title": "iPhone",
+          "productMotto": "Designed to be loved.",
+          "models": [{
+            "id": 1,
+            "modelName": "iPhone 15 Pro",
+            "image": "/images/productPages/iPhone/navSVG/iphone_15_pro_light__diyvo6c7yu82_large.svg"
+          },
+          {
+            "id": 2,
+            "modelName": "iPhone 15",
+            "image": "/images/productPages/iPhone/navSVG/iphone_15_light__euftnkhrzdea_large.svg"
+          },
+          {
+            "id": 3,
+            "modelName": "iPhone 14",
+            "image": "/images/productPages/iPhone/navSVG/iphone_14_light__fwknsxkf80uq_large.svg"
+          },
+          {
+            "id": 4,
+            "modelName": "iPhone 13",
+            "image": "/images/productPages/iPhone/navSVG/iphone_13_light__ewo3e0sf67o2_large.svg"
+          },
+          {
+            "id": 5,
+            "modelName": "iPhone SE",
+            "image": "/images/productPages/iPhone/navSVG/iphone_se_light__fhg8duy6ffau_large.svg"
+          },
+          {
+            "id": 6,
+            "modelName": "Compare",
+            "image": "/images/productPages/iPhone/navSVG/iphone_compare_light__f4jj7brpbvm2_large.svg"
+          },
+          {
+            "id": 7,
+            "modelName": "AirPods",
+            "image": "/images/productPages/iPhone/navSVG/airpods_light__8oj157p2476a_large.svg"
+          },
+          {
+            "id": 8,
+            "modelName": "AirTag",
+            "image": "/images/productPages/iPhone/navSVG/airtag_light__cb2bmnv6aoeu_large.svg"
+          },
+          {
+            "id": 9,
+            "modelName": "Accessories",
+            "image": "/images/productPages/iPhone/navSVG/accessories_light__ed5l6ipsevqu_large.svg"
+          },
+          {
+            "id": 10,
+            "modelName": "Apple Card",
+            "image": "/images/productPages/iPhone/navSVG/iphone_apple_card_light__dtut839e76c2_large.svg"
+          },
+          {
+            "id": 11,
+            "modelName": "iOS 18",
+            "image": "/images/productPages/iPhone/navSVG/iphone_ios_light__b8s4ws8o77iq_large.svg"
+          },
+          {
+            "id": 12,
+            "modelName": "Shop iPhone",
+            "image": "/images/productPages/iPhone/navSVG/shop_iphone_light__b2toggskllle_large.svg"
+          }],
+          "videoPath": "/videos/iPhone.mp4"
+        }
+    }
+  ],    
 
     "comments": [
       { "id": "1", "text": "a comment about post 1", "postId": "1" },
       { "id": "2", "text": "another comment about post 1", "postId": "1" }
     ],
     "profile": {
-      "name": "typicode"
+      "name": "AdelinaMoroaca"
     }
 }
