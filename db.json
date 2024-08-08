@@ -1234,7 +1234,64 @@
     }
   ],
 
-
+  "category":[
+    {
+      "id": "91", 
+      "title": "Mac",
+      "imagePath": "/images/category/Mac.JPG",
+      "videoPath": "/videos/Mac.mp4"
+    },
+    {
+      "id": "92", 
+      "title": "iPad",
+      "imagePath": "/images/category/iPad.JPG",
+       "videoPath": "/videos/iPad.mp4"
+    },
+    {
+      "id": "93", 
+      "title": "iPhone",
+      "imagePath": "/images/category/iPhone.JPG",
+       "videoPath": "/videos/iPhone.mp4"
+    },
+    {
+      "id": "94", 
+      "title": "Apple-Watch",
+      "imagePath": "/images/category/watch.JPG",
+      "videoPath": "/videos/watch.mp4"
+    },
+    {
+      "id": "95", 
+      "title": "AirPods",
+      "imagePath": "/images/category/AirPods.JPG",
+      "videoPath": "/videos/AirPods.mp4"
+    },
+    {
+      "id": "96", 
+      "title": "AirTag",
+      "imagePath": "/images/category/AirTag.JPG"
+    },
+    {
+      "id": "97", 
+      "title": "Apple-TV-4K",
+      "imagePath": "/images/category/TV.JPG",
+      "videoPath": "/videos/TV-Home.mp4"
+    },
+    {
+      "id": "98", 
+      "title": "HomePod",
+      "imagePath": "/images/category/HomePod.JPG"
+    },
+    {
+      "id": "99", 
+      "title": "Accessories",
+      "imagePath": "/images/category/Accessories.JPG"
+    },
+    {
+      "id": "100", 
+      "title": "Apple-Gift-Card",
+      "imagePath": "/images/category/GiftCard.JPG"
+    }
+  ],
 
   "categoryProducts": 
   [
