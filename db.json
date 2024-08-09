@@ -1429,12 +1429,81 @@
         }
     }
   ],    
-
-    "comments": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
+    "models": [{
+      "id": 1,
+      "categoryProductsId": 1,
+      "modelName": "iPhone 15 Pro",
+      "image": "/images/productPages/iPhone/navSVG/iphone_15_pro_light__diyvo6c7yu82_large.svg"
+    },
+    {
+      "id": 2,
+      "categoryProductsId": 1,
+      "modelName": "iPhone 15",
+      "image": "/images/productPages/iPhone/navSVG/iphone_15_light__euftnkhrzdea_large.svg"
+    },
+    {
+      "id": 3,
+      "categoryProductsId": 1,
+      "modelName": "iPhone 14",
+      "image": "/images/productPages/iPhone/navSVG/iphone_14_light__fwknsxkf80uq_large.svg"
+    },
+    {
+      "id": 4,
+      "categoryProductsId": 1,
+      "modelName": "iPhone 13",
+      "image": "/images/productPages/iPhone/navSVG/iphone_13_light__ewo3e0sf67o2_large.svg"
+    },
+    {
+      "id": 5,
+      "categoryProductsId": 1,
+      "modelName": "iPhone SE",
+      "image": "/images/productPages/iPhone/navSVG/iphone_se_light__fhg8duy6ffau_large.svg"
+    },
+    {
+      "id": 6,
+      "categoryProductsId": 1,
+      "modelName": "Compare",
+      "image": "/images/productPages/iPhone/navSVG/iphone_compare_light__f4jj7brpbvm2_large.svg"
+    },
+    {
+      "id": 7,
+      "categoryProductsId": 1,
+      "modelName": "AirPods",
+      "image": "/images/productPages/iPhone/navSVG/airpods_light__8oj157p2476a_large.svg"
+    },
+    {
+      "id": 8,
+      "categoryProductsId": 1,
+      "modelName": "AirTag",
+      "image": "/images/productPages/iPhone/navSVG/airtag_light__cb2bmnv6aoeu_large.svg"
+    },
+    {
+      "id": 9,
+      "categoryProductsId": 1,
+      "modelName": "Accessories",
+      "image": "/images/productPages/iPhone/navSVG/accessories_light__ed5l6ipsevqu_large.svg"
+    },
+    {
+      "id": 10,
+      "categoryProductsId": 1,
+      "modelName": "Apple Card",
+      "image": "/images/productPages/iPhone/navSVG/iphone_apple_card_light__dtut839e76c2_large.svg"
+    },
+    {
+      "id": 11,
+      "categoryProductsId": 1,
+      "modelName": "iOS 18",
+      "image": "/images/productPages/iPhone/navSVG/iphone_ios_light__b8s4ws8o77iq_large.svg"
+    },
+    {
+      "id": 12,
+      "categoryProductsId": 1,
+      "modelName": "Shop iPhone",
+      "image": "/images/productPages/iPhone/navSVG/shop_iphone_light__b2toggskllle_large.svg"
+    }],
     "profile": {
       "name": "AdelinaMoroaca"
     }
+
+    
 }
