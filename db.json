@@ -1296,278 +1296,224 @@
   "categoryProducts": 
   [
     {
-      "details": 
-        {
-          "id": 1,
-          "title": "iPhone",
-          "productMotto": "Designed to be loved.",
-          "models": [{
-            "id": 1,
-            "modelName": "iPhone 15 Pro",
-            "image": "/images/productPages/iPhone/navSVG/iphone_15_pro_light__diyvo6c7yu82_large.svg"
-          },
-          {
-            "id": 2,
-            "modelName": "iPhone 15",
-            "image": "/images/productPages/iPhone/navSVG/iphone_15_light__euftnkhrzdea_large.svg"
-          },
-          {
-            "id": 3,
-            "modelName": "iPhone 14",
-            "image": "/images/productPages/iPhone/navSVG/iphone_14_light__fwknsxkf80uq_large.svg"
-          },
-          {
-            "id": 4,
-            "modelName": "iPhone 13",
-            "image": "/images/productPages/iPhone/navSVG/iphone_13_light__ewo3e0sf67o2_large.svg"
-          },
-          {
-            "id": 5,
-            "modelName": "iPhone SE",
-            "image": "/images/productPages/iPhone/navSVG/iphone_se_light__fhg8duy6ffau_large.svg"
-          },
-          {
-            "id": 6,
-            "modelName": "Compare",
-            "image": "/images/productPages/iPhone/navSVG/iphone_compare_light__f4jj7brpbvm2_large.svg"
-          },
-          {
-            "id": 7,
-            "modelName": "AirPods",
-            "image": "/images/productPages/iPhone/navSVG/airpods_light__8oj157p2476a_large.svg"
-          },
-          {
-            "id": 8,
-            "modelName": "AirTag",
-            "image": "/images/productPages/iPhone/navSVG/airtag_light__cb2bmnv6aoeu_large.svg"
-          },
-          {
-            "id": 9,
-            "modelName": "Accessories",
-            "image": "/images/productPages/iPhone/navSVG/accessories_light__ed5l6ipsevqu_large.svg"
-          },
-          {
-            "id": 10,
-            "modelName": "Apple Card",
-            "image": "/images/productPages/iPhone/navSVG/iphone_apple_card_light__dtut839e76c2_large.svg"
-          },
-          {
-            "id": 11,
-            "modelName": "iOS 18",
-            "image": "/images/productPages/iPhone/navSVG/iphone_ios_light__b8s4ws8o77iq_large.svg"
-          },
-          {
-            "id": 12,
-            "modelName": "Shop iPhone",
-            "image": "/images/productPages/iPhone/navSVG/shop_iphone_light__b2toggskllle_large.svg"
-          }],
-          "videoPath": "/videos/iPhone.mp4"
-        }
-    },
-    {
-      "details": 
-        {
-          "id": 2,
-          "title": "Mac",
-          "productMotto": "If you can dream it, Mac can do it.",
-          "models": [{
-            "id": 1,
-            "modelName": "MacBook Air",
-            "image": "/images/productPages/mac/navSVG/macbookair_light__dfypt7o3xfgy_large.svg"
-          },
-          {
-            "id": 2,
-            "modelName": "MacBook Pro",
-            "image": "/images/productPages/mac/navSVG/macbook_pro_light__bvnmtmeikj1e_large.svg"
-          },
-          {
-            "id": 3,
-            "modelName": "iMac",
-            "image": "/images/productPages/mac/navSVG/imac_light__cx5ex9nbqxme_large.svg"
-          },
-          {
-            "id": 4,
-            "modelName": "Mac mini",
-            "image": "/images/productPages/mac/navSVG/mac_mini_light__e7ojhup2ezau_large.svg"
-          },
-          {
-            "id": 5,
-            "modelName": "Mac Studio",
-            "image": "/images/productPages/mac/navSVG/mac_studio_light__fcr3455qk0i2_large.svg"
-          },
-          {
-            "id": 6,
-            "modelName": "Mac Pro",
-            "image": "/images/productPages/mac/navSVG/mac_pro_light__bly2b0ua4seq_large.svg"
-          },
-          {
-            "id": 7,
-            "modelName": "Compare",
-            "image": "/images/productPages/mac/navSVG/mac_compare_light__capy8s4wrbhy_large.svg"
-          },
-          {
-            "id": 8,
-            "modelName": "Displays",
-            "image": "/images/productPages/mac/navSVG/displays_light__d67yrnk0qsa6_large.svg"
-          },
-          {
-            "id": 9,
-            "modelName": "Accessories",
-            "image": "/images/productPages/mac/navSVG/mac_accessories_light__esnwbnk4bxqq_large.svg"
-          },
-          {
-            "id": 10,
-            "modelName": "Sequoia",
-            "image": "/images/productPages/mac/navSVG/mac_os_light__6mb5pqhztcie_large.svg"
-          },
-          {
-            "id": 11,
-            "modelName": "Shop Mac",
-            "image": "/images/productPages/mac/navSVG/mac_shop_light__f0m72gc7jguq_large.svg"
-          }],
-          "videoPath": "/videos/Mac.mp4"
-        }
-    }
-  ],    
-    "models": [{
       "id": 1,
-      "categoryProductsId": 1,
-      "modelName": "iPhone 15 Pro",
-      "image": "/images/productPages/iPhone/navSVG/iphone_15_pro_light__diyvo6c7yu82_large.svg"
+      "title": "Mac",
+      "productMotto": "If you can dream it, Mac can do it.",
+      "videoPath": "/videos/Mac.mp4"
     },
     {
       "id": 2,
-      "categoryProductsId": 1,
-      "modelName": "iPhone 15",
-      "image": "/images/productPages/iPhone/navSVG/iphone_15_light__euftnkhrzdea_large.svg"
+      "title": "iPad",
+      "productMotto": "Touch, draw, and type on one magical device.",
+      "videoPath": "/videos/iPad.mp4"
     },
     {
       "id": 3,
-      "categoryProductsId": 1,
-      "modelName": "iPhone 14",
-      "image": "/images/productPages/iPhone/navSVG/iphone_14_light__fwknsxkf80uq_large.svg"
-    },
-    {
-      "id": 4,
-      "categoryProductsId": 1,
-      "modelName": "iPhone 13",
-      "image": "/images/productPages/iPhone/navSVG/iphone_13_light__ewo3e0sf67o2_large.svg"
-    },
-    {
-      "id": 5,
-      "categoryProductsId": 1,
-      "modelName": "iPhone SE",
-      "image": "/images/productPages/iPhone/navSVG/iphone_se_light__fhg8duy6ffau_large.svg"
-    },
-    {
-      "id": 6,
-      "categoryProductsId": 1,
-      "modelName": "Compare",
-      "image": "/images/productPages/iPhone/navSVG/iphone_compare_light__f4jj7brpbvm2_large.svg"
-    },
-    {
-      "id": 7,
-      "categoryProductsId": 1,
-      "modelName": "AirPods",
-      "image": "/images/productPages/iPhone/navSVG/airpods_light__8oj157p2476a_large.svg"
-    },
-    {
-      "id": 8,
-      "categoryProductsId": 1,
-      "modelName": "AirTag",
-      "image": "/images/productPages/iPhone/navSVG/airtag_light__cb2bmnv6aoeu_large.svg"
-    },
-    {
-      "id": 9,
-      "categoryProductsId": 1,
-      "modelName": "Accessories",
-      "image": "/images/productPages/iPhone/navSVG/accessories_light__ed5l6ipsevqu_large.svg"
-    },
-    {
-      "id": 10,
-      "categoryProductsId": 1,
-      "modelName": "Apple Card",
-      "image": "/images/productPages/iPhone/navSVG/iphone_apple_card_light__dtut839e76c2_large.svg"
-    },
-    {
-      "id": 11,
-      "categoryProductsId": 1,
-      "modelName": "iOS 18",
-      "image": "/images/productPages/iPhone/navSVG/iphone_ios_light__b8s4ws8o77iq_large.svg"
-    },
-    {
-      "id": 12,
-      "categoryProductsId": 1,
-      "modelName": "Shop iPhone",
-      "image": "/images/productPages/iPhone/navSVG/shop_iphone_light__b2toggskllle_large.svg"
-    },
-  
+      "title": "iPhone",
+      "productMotto": "Designed to be loved.",
+      "videoPath": "/videos/iPhone.mp4"
+    }
+  ],    
+  "models": [
     {
       "id": 1,
-      "categoryProductsId": 2,
+      "categoryProductsId": 1,
       "modelName": "MacBook Air",
       "image": "/images/productPages/mac/navSVG/macbookair_light__dfypt7o3xfgy_large.svg"
     },
     {
       "id": 2,
-      "categoryProductsId": 2,
+      "categoryProductsId": 1,
       "modelName": "MacBook Pro",
       "image": "/images/productPages/mac/navSVG/macbook_pro_light__bvnmtmeikj1e_large.svg"
     },
     {
       "id": 3,
-      "categoryProductsId": 2,
+      "categoryProductsId": 1,
       "modelName": "iMac",
       "image": "/images/productPages/mac/navSVG/imac_light__cx5ex9nbqxme_large.svg"
     },
     {
       "id": 4,
-      "categoryProductsId": 2,
+      "categoryProductsId": 1,
       "modelName": "Mac mini",
       "image": "/images/productPages/mac/navSVG/mac_mini_light__e7ojhup2ezau_large.svg"
     },
     {
       "id": 5,
-      "categoryProductsId": 2,
+      "categoryProductsId": 1,
       "modelName": "Mac Studio",
       "image": "/images/productPages/mac/navSVG/mac_studio_light__fcr3455qk0i2_large.svg"
     },
     {
       "id": 6,
-      "categoryProductsId": 2,
+      "categoryProductsId": 1,
       "modelName": "Mac Pro",
       "image": "/images/productPages/mac/navSVG/mac_pro_light__bly2b0ua4seq_large.svg"
     },
     {
       "id": 7,
-      "categoryProductsId": 2,
+      "categoryProductsId": 1,
       "modelName": "Compare",
       "image": "/images/productPages/mac/navSVG/mac_compare_light__capy8s4wrbhy_large.svg"
     },
     {
       "id": 8,
-      "categoryProductsId": 2,
+      "categoryProductsId": 1,
       "modelName": "Displays",
       "image": "/images/productPages/mac/navSVG/displays_light__d67yrnk0qsa6_large.svg"
     },
     {
       "id": 9,
-      "categoryProductsId": 2,
+      "categoryProductsId": 1,
       "modelName": "Accessories",
       "image": "/images/productPages/mac/navSVG/mac_accessories_light__esnwbnk4bxqq_large.svg"
     },
     {
       "id": 10,
-      "categoryProductsId": 2,
+      "categoryProductsId": 1,
       "modelName": "Sequoia",
       "image": "/images/productPages/mac/navSVG/mac_os_light__6mb5pqhztcie_large.svg"
     },
     {
       "id": 11,
-      "categoryProductsId": 2,
+      "categoryProductsId": 1,
       "modelName": "Shop Mac",
       "image": "/images/productPages/mac/navSVG/mac_shop_light__f0m72gc7jguq_large.svg"
+    },
+    {
+      "id": 1,
+      "categoryProductsId": 2,
+      "modelName": "iPad Pro",
+      "image": "/images/productPages/iPad/navSVG/ipadpro_light__bbws9fokxn3m_large.svg"
+    },
+    {
+      "id": 2,
+      "categoryProductsId": 2,
+      "modelName": "iPad Air",
+      "image": "/images/productPages/iPad/navSVG/pa_ipadair_gen5_light__cboe3o98m36u_large.svg"
+    },
+    {
+      "id": 3,
+      "categoryProductsId": 2,
+      "modelName": "iPad",
+      "image": "/images/productPages/iPad/navSVG/pa_ipadair_gen5_light__cboe3o98m36u_large.svg"
+    },
+    {
+      "id": 4,
+      "categoryProductsId": 2,
+      "modelName": "iPad mini",
+      "image": "/images/productPages/iPad/navSVG/ipadmini_light__chl9hj51b9qq_large.svg"
+    },
+    {
+      "id": 5,
+      "categoryProductsId": 2,
+      "modelName": "Compare",
+      "image": "/images/productPages/iPad/navSVG/ipad_compare_light__29tc9jjpoeqe_large.svg"
+    },
+    {
+      "id": 6,
+      "categoryProductsId": 2,
+      "modelName": "Apple Pencil",
+      "image": "/images/productPages/iPad/navSVG/apple_pencil_light__kv36e49avuq2_large.svg"
+    },
+    {
+      "id": 7,
+      "categoryProductsId": 2,
+      "modelName": "Keyboards",
+      "image": "/images/productPages/iPad/navSVG/keyboard_light__f5t6yntcyq2q_large.svg"
+    },
+    {
+      "id": 8,
+      "categoryProductsId": 2,
+      "modelName": "Accessories",
+      "image": "/images/productPages/iPad/navSVG/pa_case_ipad_gen10_light__b2tng4s4n9n6_large.svg"
+    },
+    {
+      "id": 9,
+      "categoryProductsId": 2,
+      "modelName": "iPadOS 18",
+      "image": "/images/productPages/iPad/navSVG/ipados_light__ebqgefp11ogi_large.svg"
+    },
+    {
+      "id": 10,
+      "categoryProductsId": 2,
+      "modelName": "Shop iPad",
+      "image": "/images/productPages/iPad/navSVG/shop_ipad_light__btk7x6ps41yq_large.svg"
+    },
+    {
+      "id": 1,
+      "categoryProductsId": 3,
+      "modelName": "iPhone 15 Pro",
+      "image": "/images/productPages/iPhone/navSVG/iphone_15_pro_light__diyvo6c7yu82_large.svg"
+    },
+    {
+      "id": 2,
+      "categoryProductsId": 3,
+      "modelName": "iPhone 15",
+      "image": "/images/productPages/iPhone/navSVG/iphone_15_light__euftnkhrzdea_large.svg"
+    },
+    {
+      "id": 3,
+      "categoryProductsId": 3,
+      "modelName": "iPhone 14",
+      "image": "/images/productPages/iPhone/navSVG/iphone_14_light__fwknsxkf80uq_large.svg"
+    },
+    {
+      "id": 4,
+      "categoryProductsId": 3,
+      "modelName": "iPhone 13",
+      "image": "/images/productPages/iPhone/navSVG/iphone_13_light__ewo3e0sf67o2_large.svg"
+    },
+    {
+      "id": 5,
+      "categoryProductsId": 3,
+      "modelName": "iPhone SE",
+      "image": "/images/productPages/iPhone/navSVG/iphone_se_light__fhg8duy6ffau_large.svg"
+    },
+    {
+      "id": 6,
+      "categoryProductsId": 3,
+      "modelName": "Compare",
+      "image": "/images/productPages/iPhone/navSVG/iphone_compare_light__f4jj7brpbvm2_large.svg"
+    },
+    {
+      "id": 7,
+      "categoryProductsId": 3,
+      "modelName": "AirPods",
+      "image": "/images/productPages/iPhone/navSVG/airpods_light__8oj157p2476a_large.svg"
+    },
+    {
+      "id": 8,
+      "categoryProductsId": 3,
+      "modelName": "AirTag",
+      "image": "/images/productPages/iPhone/navSVG/airtag_light__cb2bmnv6aoeu_large.svg"
+    },
+    {
+      "id": 9,
+      "categoryProductsId": 3,
+      "modelName": "Accessories",
+      "image": "/images/productPages/iPhone/navSVG/accessories_light__ed5l6ipsevqu_large.svg"
+    },
+    {
+      "id": 10,
+      "categoryProductsId": 3,
+      "modelName": "Apple Card",
+      "image": "/images/productPages/iPhone/navSVG/iphone_apple_card_light__dtut839e76c2_large.svg"
+    },
+    {
+      "id": 11,
+      "categoryProductsId": 3,
+      "modelName": "iOS 18",
+      "image": "/images/productPages/iPhone/navSVG/iphone_ios_light__b8s4ws8o77iq_large.svg"
+    },
+    {
+      "id": 12,
+      "categoryProductsId": 3,
+      "modelName": "Shop iPhone",
+      "image": "/images/productPages/iPhone/navSVG/shop_iphone_light__b2toggskllle_large.svg"
     }
+
   ],
     "profile": {
       "name": "AdelinaMoroaca"
