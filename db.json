@@ -1354,18 +1354,21 @@
     {
       "id": 1, 
       "title": "MacBook Air", 
+      "MacStoreProductsId": 1,
       "storeCategoryId": 1,
       "imagePath": "/images/buyMac/mac-card-40-macbook-air-13-15-202306.JPG"
     },
     {
       "id": 2, 
       "title": "MacBook Pro",
+      "MacStoreProductsId": 2,
       "storeCategoryId": 1,
       "imagePath": "/images/buyMac/mac-card-40-macbookpro-14-16-202310_GEO_US.JPG"
     },
     {
       "id": 3, 
       "title": "iMac",
+      "MacStoreProductsId": 3,
       "storeCategoryId": 1,
       "imagePath": "/images/buyMac/mac-card-40-imac-24-202310.JPG"
     },
