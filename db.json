@@ -1392,6 +1392,26 @@
       "storeCategoryId": 1
     }
   ],
+  "MacModels":[
+    {
+      "id": 1,
+      "MacStoreProductsId": 1,
+      "title":"MacBook Air 13-inch with M2 chip",
+      "modelName": "13'' (M2)"
+    },
+    {
+      "id": 1,
+      "MacStoreProductsId": 1,
+      "title":"MacBook Air 13-inch with M3 chip",
+      "modelName": "13'' (M3)"
+    },
+    {
+      "id": 1,
+      "MacStoreProductsId": 1,
+      "title": "MacBook Air 15-inch with M3 chip",
+      "modelName": "15'' (M3)"
+    }
+  ],
 
   "categoryProducts": 
   [
