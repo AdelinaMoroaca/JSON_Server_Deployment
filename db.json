@@ -1350,8 +1350,49 @@
       "imagePath": "/images/category/GiftCard.JPG"
     }
   ],
+  "MacStoreProducts":[
+    {
+      "id": 1, 
+      "title": "MacBook Air", 
+      "storeCategoryId": 1
+    },
+    {
+      "id": 2, 
+      "title": "MacBook Pro",
+      "storeCategoryId": 1
+    },
+    {
+      "id": 3, 
+      "title": "iMac",
+      "storeCategoryId": 1
+    },
+    {
+      "id": 4, 
+      "title": "Mac mini",
+      "storeCategoryId": 1
+    },
+    {
+      "id": 5, 
+      "title": "Mac Studio",
+      "storeCategoryId": 1
+    },
+    {
+      "id": 6, 
+      "title": "Studio Display",
+      "storeCategoryId": 1
+    },
+    {
+      "id": 7, 
+      "title": "Mac Pro",
+      "storeCategoryId": 1
+    },
+    {
+      "id": 8, 
+      "title": "Pro Display XDR",
+      "storeCategoryId": 1
+    }
+  ],
 
-  
   "categoryProducts": 
   [
     {
