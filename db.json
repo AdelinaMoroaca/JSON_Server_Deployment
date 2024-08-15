@@ -1397,19 +1397,111 @@
       "id": 1,
       "MacStoreProductsId": 1,
       "title":"MacBook Air 13-inch with M2 chip",
-      "modelName": "13'' (M2)"
+      "modelName": "13-inch (M2 chip)",
+      "price": 899,
+      "value": "$" 
     },
     {
       "id": 2,
       "MacStoreProductsId": 1,
       "title":"MacBook Air 13-inch with M3 chip",
-      "modelName": "13'' (M3)"
+      "modelName": "13-inch (M3 chip)",
+      "price": 999,
+      "value": "$"
     },
     {
       "id": 3,
       "MacStoreProductsId": 1,
       "title": "MacBook Air 15-inch with M3 chip",
-      "modelName": "15'' (M3)"
+      "modelName": "15-inch (M3 chip)",
+      "price": 1199,
+      "value": "$"
+    }
+  ],
+  "MacStorage":[
+    {
+      "id": 1,
+      "MacModelsId": 1,
+      "title":"MacBook Air 13-inch with M2 chip",
+      "memory": 8,
+      "storage": 256,
+      "storageType": "GB",      
+      "price": 899,
+      "value": "$" 
+    },
+    {
+      "id": 2,
+      "MacModelsId": 1,
+      "title":"MacBook Air 13-inch with M2 chip",
+      "memory": 8,
+      "storage": 512,
+      "storageType": "GB",      
+      "price": 1099,
+      "value": "$" 
+    },
+
+    {
+      "id": 3,
+      "MacModelsId": 2,
+      "title":"MacBook Air 13-inch with M3 chip",
+      "memory": 8,
+      "storage": 256,
+      "storageType": "GB",      
+      "price": 999,
+      "value": "$" 
+    },
+    {
+      "id": 4,
+      "MacModelsId": 2,
+      "title":"MacBook Air 13-inch with M3 chip",
+      "memory": 8,
+      "storage": 512,
+      "storageType": "GB",      
+      "price": 1099,
+      "value": "$" 
+    },
+    {
+      "id": 5,
+      "MacModelsId": 2,
+      "title":"MacBook Air 13-inch with M3 chip",
+      "memory": 16,
+      "storage": 512,
+      "storageType": "GB",      
+      "price": 1399,
+      "value": "$" 
+    },
+    {
+      "id": 6,
+      "MacModelsId": 3,
+      "MacStoreProductsId": 1,
+      "title":"MacBook Air 15-inch with M3 chip",
+      "memory": 8,
+      "storage": 256,
+      "storageType": "GB",      
+      "price": 1199,
+      "value": "$" 
+    },
+    {
+      "id": 7,
+      "MacModelsId": 3,
+      "MacStoreProductsId": 1,
+      "title": "MacBook Air 15-inch with M3 chip",
+      "memory": 8,
+      "storage": 512,
+      "storageType": "GB",      
+      "price": 1399,
+      "value": "$" 
+    },
+    {
+      "id": 8,
+      "MacModelsId": 3,
+      "MacStoreProductsId": 1,
+      "title": "MacBook Air 15-inch with M3 chip",
+      "memory": 16,
+      "storage": 512,
+      "storageType": "GB",      
+      "price": 1599,
+      "value": "$" 
     }
   ],
 
