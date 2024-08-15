@@ -1354,42 +1354,50 @@
     {
       "id": 1, 
       "title": "MacBook Air", 
-      "storeCategoryId": 1
+      "storeCategoryId": 1,
+      "imagePath": "/images/buyMac/mac-card-40-macbook-air-13-15-202306.JPG"
     },
     {
       "id": 2, 
       "title": "MacBook Pro",
-      "storeCategoryId": 1
+      "storeCategoryId": 1,
+      "imagePath": "/images/buyMac/mac-card-40-macbookpro-14-16-202310_GEO_US.JPG"
     },
     {
       "id": 3, 
       "title": "iMac",
-      "storeCategoryId": 1
+      "storeCategoryId": 1,
+      "imagePath": "/images/buyMac/mac-card-40-imac-24-202310.JPG"
     },
     {
       "id": 4, 
       "title": "Mac mini",
-      "storeCategoryId": 1
+      "storeCategoryId": 1,
+      "imagePath": "/images/buyMac/mac-card-40-mac-mini-202301.JPG"
     },
     {
       "id": 5, 
       "title": "Mac Studio",
-      "storeCategoryId": 1
+      "storeCategoryId": 1,
+      "imagePath": "/images/buyMac/mac-card-40-mac-studio-202306.JPG"
     },
     {
       "id": 6, 
       "title": "Studio Display",
-      "storeCategoryId": 1
+      "storeCategoryId": 1,
+      "imagePath": "/images/buyMac/mac-card-40-studio-display-202203.JPG"
     },
     {
       "id": 7, 
       "title": "Mac Pro",
-      "storeCategoryId": 1
+      "storeCategoryId": 1,
+      "imagePath": "/images/buyMac/mac-card-40-mac-pro-202306.JPG"
     },
     {
       "id": 8, 
       "title": "Pro Display XDR",
-      "storeCategoryId": 1
+      "storeCategoryId": 1,
+      "imagePath": "/images/buyMac/mac-card-40-mac-pro-display-202108.JPG"
     }
   ],
   "MacModels":[
