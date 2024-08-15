@@ -1432,15 +1432,15 @@
       "id": 4,
       "MacStoreProductsId": 2,
       "title":"MacBook Pro 14-inch",
-      "modelName": "13-inch (M2 chip)",
+      "modelName": "14-inch",
       "price": 1499,
       "value": "$" 
     },
     {
       "id": 5,
       "MacStoreProductsId": 2,
-      "title":"MacBook Pro 14-inch",
-      "modelName": "13-inch (M3 chip)",
+      "title":"MacBook Pro 16-inch",
+      "modelName": "16-inch",
       "price": 2299,
       "value": "$"
     },
