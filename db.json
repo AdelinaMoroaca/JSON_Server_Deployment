@@ -363,7 +363,6 @@
       "id": 1,
       "MacStoreProductsId": 1,
 
-      "title":"MacBook Air 13-inch with M2 chip",
       "modelName": "13-inch (M2 chip)",
       "price": 899,
       "curency": "$",
@@ -374,7 +373,6 @@
     {
       "id": 2,
       "MacStoreProductsId": 1,
-      "title":"MacBook Air 13-inch with M3 chip",
       "modelName": "13-inch (M3 chip)",
       "price": 999,
       "value": "$"
@@ -382,7 +380,6 @@
     {
       "id": 3,
       "MacStoreProductsId": 1,
-      "title": "MacBook Air 15-inch with M3 chip",
       "modelName": "15-inch (M3 chip)",
       "price": 1199,
       "value": "$"
@@ -390,7 +387,6 @@
     {
       "id": 4,
       "MacStoreProductsId": 2,
-      "title":"MacBook Pro 14-inch",
       "modelName": "14-inch",
       "price": 1499,
       "value": "$" 
@@ -398,7 +394,6 @@
     {
       "id": 5,
       "MacStoreProductsId": 2,
-      "title":"MacBook Pro 16-inch",
       "modelName": "16-inch",
       "price": 2299,
       "value": "$"
@@ -406,7 +401,6 @@
     {
       "id": 6,
       "MacStoreProductsId": 3,
-      "title":"MacBook Pro 14-inch",
       "modelName": "13-inch (M2 chip)",
       "price": 1249,
       "value": "$" 
@@ -414,7 +408,6 @@
     {
       "id": 7,
       "MacStoreProductsId": 4,
-      "title":"MacBook Pro 14-inch",
       "modelName": "13-inch (M3 chip)",
       "price": 1399,
       "value": "$"
@@ -422,7 +415,6 @@
     {
       "id": 8,
       "MacStoreProductsId": 5,
-      "title":"MacBook Pro 14-inch",
       "modelName": "13-inch (M3 chip)",
       "price": 1599,
       "value": "$"
