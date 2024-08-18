@@ -300,6 +300,33 @@
       {
         "id": 2,
         "displayModel": "15 inch"        
+      }],
+      "chip": [
+        {
+        "id": 1,
+        "chipModel": "M2"
+        },
+        {
+          "id": 2,
+          "chipModel": "M3"        
+        }],
+      "storage": [
+        {
+        "id": 1,
+        "storageCapacity": "256GB SSD" 
+        },
+        {
+          "id": 2,
+          "storageCapacity": "512GB SSD"    
+        }],
+      "memory": [
+          {
+          "id": 1,
+          "unifiedMemory": "8GB Unified Memory" 
+          },
+          {
+          "id": 2,
+          "unifiedMemory": "16GB Unified Memory"    
       }]
     },
     {
@@ -433,7 +460,29 @@
       "unifiedMemory": "48GB"    
     }
   ],
-    
+  "models":[
+    {
+      "id": 1,
+      "modelsName": "13-inch (M2 chip)",
+      "productsId": 1,
+      "basePrice": 899,
+      "currency": "$"      
+    },
+    {
+      "id": 2,
+      "modelsName": "13-inch (M3 chip)",
+      "productsId": 1,
+      "basePrice": 999,
+      "currency": "$"        
+    },
+    {
+      "id": 3,
+      "modelsName": "15-inch (M3 chip)",
+      "productsId": 1,
+      "basePrice": 1199,
+      "currency": "$"       
+    }
+  ], 
   "nav": [
     {
       "id": 1,
