@@ -291,7 +291,16 @@
       "MacStoreProductsId": 1,
       "modelSpecificity": "chip",
       "imagePath": "/images/buyMac/mac-card-40-macbook-air-13-15-202306.JPG",
-      "iconPath": "/images/productPages/mac/navSVG/macbookair_light__dfypt7o3xfgy_large.svg"
+      "iconPath": "/images/productPages/mac/navSVG/macbookair_light__dfypt7o3xfgy_large.svg",
+      "display": [
+      {
+      "id": 1,
+      "displayModel": "13 inch"
+      },
+      {
+        "id": 2,
+        "displayModel": "15 inch"        
+      }]
     },
     {
       "id": 2, 
