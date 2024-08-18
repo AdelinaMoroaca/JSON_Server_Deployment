@@ -223,58 +223,58 @@
 
   "category":[
     {
-      "id": "91", 
+      "id": 1, 
       "title": "Mac",
       "imagePath": "/images/category/Mac.JPG",
       "videoPath": "/videos/Mac.mp4"
     },
     {
-      "id": "92", 
+      "id": 2, 
       "title": "iPad",
       "imagePath": "/images/category/iPad.JPG",
        "videoPath": "/videos/iPad.mp4"
     },
     {
-      "id": "93", 
+      "id": 3, 
       "title": "iPhone",
       "imagePath": "/images/category/iPhone.JPG",
        "videoPath": "/videos/iPhone.mp4"
     },
     {
-      "id": "94", 
+      "id": 4, 
       "title": "Apple-Watch",
       "imagePath": "/images/category/watch.JPG",
       "videoPath": "/videos/watch.mp4"
     },
     {
-      "id": "95", 
+      "id": 5, 
       "title": "AirPods",
       "imagePath": "/images/category/AirPods.JPG",
       "videoPath": "/videos/AirPods.mp4"
     },
     {
-      "id": "96", 
+      "id": 6, 
       "title": "AirTag",
       "imagePath": "/images/category/AirTag.JPG"
     },
     {
-      "id": "97", 
+      "id": 7, 
       "title": "Apple-TV-4K",
       "imagePath": "/images/category/TV.JPG",
       "videoPath": "/videos/TV-Home.mp4"
     },
     {
-      "id": "98", 
+      "id": 8, 
       "title": "HomePod",
       "imagePath": "/images/category/HomePod.JPG"
     },
     {
-      "id": "99", 
+      "id": 9, 
       "title": "Accessories",
       "imagePath": "/images/category/Accessories.JPG"
     },
     {
-      "id": "100", 
+      "id": 10, 
       "title": "Apple-Gift-Card",
       "imagePath": "/images/category/GiftCard.JPG"
     }
