@@ -349,142 +349,142 @@
     {
       "id": 4, 
       "title": "Mac mini",
-      "categoryProductsId": 1, 
+      "categoryId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-mac-mini-202301.JPG",
       "iconPath": "/images/productPages/mac/navSVG/mac_mini_light__e7ojhup2ezau_large.svg"
     },
     {
       "id": 5, 
       "title": "Mac Studio",
-      "categoryProductsId": 1, 
+      "categoryId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-mac-studio-202306.JPG",
       "iconPath": "/images/productPages/mac/navSVG/mac_studio_light__fcr3455qk0i2_large.svg"
     },
     {
       "id": 6, 
       "title": "Studio Display",
-      "categoryProductsId": 1, 
+      "categoryId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-studio-display-202203.JPG"
     },
     {
       "id": 7, 
       "title": "Mac Pro",
-      "categoryProductsId": 1, 
+      "categoryId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-mac-pro-202306.JPG",
       "iconPath": "/images/productPages/mac/navSVG/mac_pro_light__bly2b0ua4seq_large.svg"
     },
     {
       "id": 8, 
       "title": "Pro Display XDR",
-      "categoryProductsId": 1, 
+      "categoryId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-mac-pro-display-202108.JPG"
     },
     {
       "id": 9, 
       "title": "iPad Pro",
-      "categoryProductsId": 2, 
+      "categoryId": 2, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 10, 
       "title": "iPad Air",
-      "categoryProductsId": 2, 
+      "categoryId": 2, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 11, 
       "title": "iPad",
-      "categoryProductsId": 2, 
+      "categoryId": 2, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 12, 
       "title": "iPad mini",
-      "categoryProductsId": 2, 
+      "categoryId": 2, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 13, 
       "title": "Apple Watch Series 9",
-      "categoryProductsId": 4, 
+      "categoryId": 4, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 14, 
       "title": "Apple Watch Ultra 2",
-      "categoryProductsId": 4, 
+      "categoryId": 4, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 15, 
       "title": "Apple Watch SE",
-      "categoryProductsId": 4, 
+      "categoryId": 4, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 16, 
       "title": "Apple Watch Hermès",
-      "categoryProductsId": 4, 
+      "categoryId": 4, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 17, 
       "title": "AirPods 2nd generation",
-      "categoryProductsId": 5, 
+      "categoryId": 5, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 18, 
       "title": "AirPods 3rd generation",
-      "categoryProductsId": 5, 
+      "categoryId": 5, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 19, 
       "title": "AirPods Pro",
-      "categoryProductsId": 5, 
+      "categoryId": 5, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 20, 
       "title": "AirPods Max",
-      "categoryProductsId": 5, 
+      "categoryId": 5, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 21, 
       "title": "AirTag",
-      "categoryProductsId": 6, 
+      "categoryId": 6, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 22, 
       "title": "AirTag 4 pack",
-      "categoryProductsId": 6, 
+      "categoryId": 6, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 22, 
       "title": "TV 4K",
-      "categoryProductsId": 7, 
+      "categoryId": 7, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 23, 
       "title": "Home App",
-      "categoryProductsId": 8, 
+      "categoryId": 8, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 24, 
       "title": "HomePod",
-      "categoryProductsId": 6, 
+      "categoryId": 6, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 25, 
       "title": "HomePod mini",
-      "categoryProductsId": 6, 
+      "categoryId": 6, 
       "imagePath": "/images/buyiPad/.JPG"
     }
   ],
