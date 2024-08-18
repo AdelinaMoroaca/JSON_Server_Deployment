@@ -289,6 +289,7 @@
       "title": "MacBook Air",
       "categoryId": 1, 
       "MacStoreProductsId": 1,
+      "modelSpecificity": "chip",
       "imagePath": "/images/buyMac/mac-card-40-macbook-air-13-15-202306.JPG",
       "iconPath": "/images/productPages/mac/navSVG/macbookair_light__dfypt7o3xfgy_large.svg"
     },
@@ -297,12 +298,9 @@
       "title": "MacBook Pro",
       "categoryId": 1, 
       "MacStoreProductsId": 2,
+      "modelSpecificity": "inch",
       "imagePath": "/images/buyMac/mac-card-40-macbookpro-14-16-202310_GEO_US.JPG",
-      "iconPath": "/images/productPages/mac/navSVG/macbook_pro_light__bvnmtmeikj1e_large.svg",
-
-
-
-      "storeCategoryId": 1
+      "iconPath": "/images/productPages/mac/navSVG/macbook_pro_light__bvnmtmeikj1e_large.svg"
     },
     {
       "id": 3, 
@@ -310,118 +308,160 @@
       "categoryId": 1, 
       "MacStoreProductsId": 3,
       "imagePath": "/images/buyMac/mac-card-40-imac-24-202310.JPG",
-      "iconPath": "/images/productPages/mac/navSVG/imac_light__cx5ex9nbqxme_large.svg",
-
-      "storeCategoryId": 1
+      "iconPath": "/images/productPages/mac/navSVG/imac_light__cx5ex9nbqxme_large.svg"
     },
     {
       "id": 4, 
       "title": "Mac mini",
       "categoryId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-mac-mini-202301.JPG",
-      "iconPath": "/images/productPages/mac/navSVG/mac_mini_light__e7ojhup2ezau_large.svg",
-
-      "storeCategoryId": 1
+      "iconPath": "/images/productPages/mac/navSVG/mac_mini_light__e7ojhup2ezau_large.svg"
     },
     {
       "id": 5, 
       "title": "Mac Studio",
       "categoryId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-mac-studio-202306.JPG",
-      "iconPath": "/images/productPages/mac/navSVG/mac_studio_light__fcr3455qk0i2_large.svg",
-
-      "storeCategoryId": 1
+      "iconPath": "/images/productPages/mac/navSVG/mac_studio_light__fcr3455qk0i2_large.svg"
     },
     {
       "id": 6, 
       "title": "Studio Display",
       "categoryId": 1, 
-      "imagePath": "/images/buyMac/mac-card-40-studio-display-202203.JPG",
-
-      "storeCategoryId": 1
+      "imagePath": "/images/buyMac/mac-card-40-studio-display-202203.JPG"
     },
     {
       "id": 7, 
       "title": "Mac Pro",
       "categoryId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-mac-pro-202306.JPG",
-      "iconPath": "/images/productPages/mac/navSVG/mac_pro_light__bly2b0ua4seq_large.svg",
-
-      "storeCategoryId": 1
+      "iconPath": "/images/productPages/mac/navSVG/mac_pro_light__bly2b0ua4seq_large.svg"
     },
     {
       "id": 8, 
       "title": "Pro Display XDR",
       "categoryId": 1, 
-      "imagePath": "/images/buyMac/mac-card-40-mac-pro-display-202108.JPG",
-
-      "storeCategoryId": 1
+      "imagePath": "/images/buyMac/mac-card-40-mac-pro-display-202108.JPG"
     }
   ],
-  "models":[
+  "display":[
     {
       "id": 1,
-      "MacStoreProductsId": 1,
-
-      "modelName": "13-inch (M2 chip)",
-      "price": 899,
-      "curency": "$",
-      "memory": 8,
-      "storage": 256,
-      "storageType": "GB"
+      "productsId": 1,
+      "displayModel": "13 inch"
     },
     {
       "id": 2,
-      "MacStoreProductsId": 1,
-      "modelName": "13-inch (M3 chip)",
-      "price": 999,
-      "value": "$"
+      "productsId": 1,
+      "displayModel": "15 inch"
     },
     {
       "id": 3,
-      "MacStoreProductsId": 1,
-      "modelName": "15-inch (M3 chip)",
-      "price": 1199,
-      "value": "$"
+      "productsId": 2,
+      "displayModel": "14 inch"
     },
     {
       "id": 4,
-      "MacStoreProductsId": 2,
-      "modelName": "14-inch",
-      "price": 1499,
-      "value": "$" 
+      "productsId": 2,
+      "displayModel": "16 inch"
     },
     {
       "id": 5,
-      "MacStoreProductsId": 2,
-      "modelName": "16-inch",
-      "price": 2299,
-      "value": "$"
+      "productsId": 3,
+      "displayModel": "24 inch"
+    }
+  ],
+  "chip":[
+    {
+      "id": 1,
+      "productsId": 1,
+      "chipModel": "M2"
+    },
+    {
+      "id": 2,
+      "productsId": 1,
+      "chipModel": "M3"
+    },
+    {
+      "id": 3,
+      "productsId": 2,
+      "displayModel": "M3"
+    },
+    {
+      "id": 4,
+      "productsId": 2,
+      "displayModel": "M3 Pro"
+    },
+    {
+      "id": 5,
+      "productsId": 2,
+      "displayModel": "M3 Max"
     },
     {
       "id": 6,
-      "MacStoreProductsId": 3,
-      "modelName": "13-inch (M2 chip)",
-      "price": 1249,
-      "value": "$" 
+      "productsId": 3,
+      "displayModel": "M3"
+    }
+  ],
+  "storage":[
+    {
+      "id": 1,
+      "productsId": 1,
+      "storageCapacity": "256GB SSD"     
+    },
+    {
+      "id": 2,
+      "productsId": 1,
+      "storageCapacity": "512GB SSD"   
+    },
+    {
+      "id": 3,
+      "productsId": 2,
+      "storageCapacity": "512GB SSD"     
+    },
+    {
+      "id": 4,
+      "productsId": 2,
+      "storageCapacity": "1TB SSD"   
+    },
+    {
+      "id": 6,
+      "productsId": 3,
+      "storageCapacity": "256GB"
     },
     {
       "id": 7,
-      "MacStoreProductsId": 4,
-      "modelName": "13-inch (M3 chip)",
-      "price": 1399,
-      "value": "$"
-    },
-    {
-      "id": 8,
-      "MacStoreProductsId": 5,
-      "modelName": "13-inch (M3 chip)",
-      "price": 1599,
-      "value": "$"
+      "productsId": 3,
+      "storageCapacity": "512GB"
     }
   ],
-  
-
+  "memory":[
+    {
+      "id": 1,
+      "productsId": 1,
+      "unifiedMemory": "8GB"     
+    },
+    {
+      "id": 2,
+      "productsId": 1,
+      "unifiedMemory": "16GB"    
+    },
+    {
+      "id": 3,
+      "productsId": 2,
+      "unifiedMemory": "36GB"     
+    },
+    {
+      "id": 4,
+      "productsId": 2,
+      "unifiedMemory": "48GB"    
+    },
+    {
+      "id": 5,
+      "productsId": 3,
+      "storageCapacity": "8GB"
+    }
+  ],
     
   "nav": [
     {
