@@ -219,36 +219,39 @@
       ]
     }
   ],
-
-
   "category":[
     {
       "id": 1, 
       "title": "Mac",
+      "motto": "If you can dream it, Mac can do it.",
       "imagePath": "/images/category/Mac.JPG",
       "videoPath": "/videos/Mac.mp4"
     },
     {
       "id": 2, 
       "title": "iPad",
+      "motto": "Touch, draw, and type on one magical device.",
       "imagePath": "/images/category/iPad.JPG",
        "videoPath": "/videos/iPad.mp4"
     },
     {
       "id": 3, 
       "title": "iPhone",
+      "motto": "Designed to be loved.",
       "imagePath": "/images/category/iPhone.JPG",
        "videoPath": "/videos/iPhone.mp4"
     },
     {
       "id": 4, 
-      "title": "Apple-Watch",
+      "title": "Apple Watch",
+      "motto": "To wear it is to love it.",
       "imagePath": "/images/category/watch.JPG",
       "videoPath": "/videos/watch.mp4"
     },
     {
       "id": 5, 
       "title": "AirPods",
+      "motto": "A magical connection to your devices.",
       "imagePath": "/images/category/AirPods.JPG",
       "videoPath": "/videos/AirPods.mp4"
     },
@@ -260,65 +263,7 @@
     {
       "id": 7, 
       "title": "Apple-TV-4K",
-      "imagePath": "/images/category/TV.JPG",
-      "videoPath": "/videos/TV-Home.mp4"
-    },
-    {
-      "id": 8, 
-      "title": "HomePod",
-      "imagePath": "/images/category/HomePod.JPG"
-    },
-    {
-      "id": 9, 
-      "title": "Accessories",
-      "imagePath": "/images/category/Accessories.JPG"
-    },
-    {
-      "id": 10, 
-      "title": "Apple-Gift-Card",
-      "imagePath": "/images/category/GiftCard.JPG"
-    }
-  ],
-  "storeCategory":[
-    {
-      "de sters storeCategory tot si folosit informatia in category":"",
-      "id": 1, 
-      "title": "Mac",
-      "imagePath": "/images/category/Mac.JPG",
-      "videoPath": "/videos/Mac.mp4"
-    },
-    {
-      "id": 2, 
-      "title": "iPad",
-      "imagePath": "/images/category/iPad.JPG",
-       "videoPath": "/videos/iPad.mp4"
-    },
-    {
-      "id": 3, 
-      "title": "iPhone",
-      "imagePath": "/images/category/iPhone.JPG",
-       "videoPath": "/videos/iPhone.mp4"
-    },
-    {
-      "id": 4, 
-      "title": "Apple-Watch",
-      "imagePath": "/images/category/watch.JPG",
-      "videoPath": "/videos/watch.mp4"
-    },
-    {
-      "id": 5, 
-      "title": "AirPods",
-      "imagePath": "/images/category/AirPods.JPG",
-      "videoPath": "/videos/AirPods.mp4"
-    },
-    {
-      "id": 6, 
-      "title": "AirTag",
-      "imagePath": "/images/category/AirTag.JPG"
-    },
-    {
-      "id": 7, 
-      "title": "Apple-TV-4K",
+      "motto": "The future hits home. On the big screen.",
       "imagePath": "/images/category/TV.JPG",
       "videoPath": "/videos/TV-Home.mp4"
     },
@@ -342,54 +287,75 @@
     {
       "id": 1, 
       "title": "MacBook Air",
-      "categoryId": "91", 
+      "categoryId": 1, 
       "MacStoreProductsId": 1,
-    
-      "imagePath": "/images/buyMac/mac-card-40-macbook-air-13-15-202306.JPG"
+      "imagePath": "/images/buyMac/mac-card-40-macbook-air-13-15-202306.JPG",
+      "iconPath": "/images/productPages/mac/navSVG/macbookair_light__dfypt7o3xfgy_large.svg"
     },
     {
       "id": 2, 
       "title": "MacBook Pro",
+      "categoryId": 1, 
       "MacStoreProductsId": 2,
-      "storeCategoryId": 1,
-      "imagePath": "/images/buyMac/mac-card-40-macbookpro-14-16-202310_GEO_US.JPG"
+      "imagePath": "/images/buyMac/mac-card-40-macbookpro-14-16-202310_GEO_US.JPG",
+      "iconPath": "/images/productPages/mac/navSVG/macbook_pro_light__bvnmtmeikj1e_large.svg",
+
+
+
+      "storeCategoryId": 1
     },
     {
       "id": 3, 
       "title": "iMac",
+      "categoryId": 1, 
       "MacStoreProductsId": 3,
-      "storeCategoryId": 1,
-      "imagePath": "/images/buyMac/mac-card-40-imac-24-202310.JPG"
+      "imagePath": "/images/buyMac/mac-card-40-imac-24-202310.JPG",
+      "iconPath": "/images/productPages/mac/navSVG/imac_light__cx5ex9nbqxme_large.svg",
+
+      "storeCategoryId": 1
     },
     {
       "id": 4, 
       "title": "Mac mini",
-      "storeCategoryId": 1,
-      "imagePath": "/images/buyMac/mac-card-40-mac-mini-202301.JPG"
+      "categoryId": 1, 
+      "imagePath": "/images/buyMac/mac-card-40-mac-mini-202301.JPG",
+      "iconPath": "/images/productPages/mac/navSVG/mac_mini_light__e7ojhup2ezau_large.svg",
+
+      "storeCategoryId": 1
     },
     {
       "id": 5, 
       "title": "Mac Studio",
-      "storeCategoryId": 1,
-      "imagePath": "/images/buyMac/mac-card-40-mac-studio-202306.JPG"
+      "categoryId": 1, 
+      "imagePath": "/images/buyMac/mac-card-40-mac-studio-202306.JPG",
+      "iconPath": "/images/productPages/mac/navSVG/mac_studio_light__fcr3455qk0i2_large.svg",
+
+      "storeCategoryId": 1
     },
     {
       "id": 6, 
       "title": "Studio Display",
-      "storeCategoryId": 1,
-      "imagePath": "/images/buyMac/mac-card-40-studio-display-202203.JPG"
+      "categoryId": 1, 
+      "imagePath": "/images/buyMac/mac-card-40-studio-display-202203.JPG",
+
+      "storeCategoryId": 1
     },
     {
       "id": 7, 
       "title": "Mac Pro",
-      "storeCategoryId": 1,
-      "imagePath": "/images/buyMac/mac-card-40-mac-pro-202306.JPG"
+      "categoryId": 1, 
+      "imagePath": "/images/buyMac/mac-card-40-mac-pro-202306.JPG",
+      "iconPath": "/images/productPages/mac/navSVG/mac_pro_light__bly2b0ua4seq_large.svg",
+
+      "storeCategoryId": 1
     },
     {
       "id": 8, 
       "title": "Pro Display XDR",
-      "storeCategoryId": 1,
-      "imagePath": "/images/buyMac/mac-card-40-mac-pro-display-202108.JPG"
+      "categoryId": 1, 
+      "imagePath": "/images/buyMac/mac-card-40-mac-pro-display-202108.JPG",
+
+      "storeCategoryId": 1
     }
   ],
   "modelsFinal":[
@@ -464,28 +430,8 @@
   ],
   
 
-  "categoryProducts": 
-  [
-    {
-      "id": 1,
-      "title": "Mac",
-      "productMotto": "If you can dream it, Mac can do it.",
-      "videoPath": "/videos/Mac.mp4"
-    },
-    {
-      "id": 2,
-      "title": "iPad",
-      "productMotto": "Touch, draw, and type on one magical device.",
-      "videoPath": "/videos/iPad.mp4"
-    },
-    {
-      "id": 3,
-      "title": "iPhone",
-      "productMotto": "Designed to be loved.",
-      "videoPath": "/videos/iPhone.mp4"
-    }
-  ],    
-  "models": [
+    
+  "nav": [
     {
       "id": 1,
       "categoryProductsId": 1,
