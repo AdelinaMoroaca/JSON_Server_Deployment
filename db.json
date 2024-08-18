@@ -288,7 +288,7 @@
       "id": 1, 
       "title": "MacBook Air",
       "categoryId": 1, 
-      "MacStoreProductsId": 1,
+      "categoryProductsId": 1,
       "modelSpecificity": "chip",
       "imagePath": "/images/buyMac/mac-card-40-macbook-air-13-15-202306.JPG",
       "iconPath": "/images/productPages/mac/navSVG/macbookair_light__dfypt7o3xfgy_large.svg",
@@ -333,7 +333,7 @@
       "id": 2, 
       "title": "MacBook Pro",
       "categoryId": 1, 
-      "MacStoreProductsId": 2,
+      "categoryProductsId": 2,
       "modelSpecificity": "inch",
       "imagePath": "/images/buyMac/mac-card-40-macbookpro-14-16-202310_GEO_US.JPG",
       "iconPath": "/images/productPages/mac/navSVG/macbook_pro_light__bvnmtmeikj1e_large.svg"
@@ -342,149 +342,149 @@
       "id": 3, 
       "title": "iMac",
       "categoryId": 1, 
-      "MacStoreProductsId": 3,
+      "categoryProductsId": 3,
       "imagePath": "/images/buyMac/mac-card-40-imac-24-202310.JPG",
       "iconPath": "/images/productPages/mac/navSVG/imac_light__cx5ex9nbqxme_large.svg"
     },
     {
       "id": 4, 
       "title": "Mac mini",
-      "categoryId": 1, 
+      "categoryProductsId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-mac-mini-202301.JPG",
       "iconPath": "/images/productPages/mac/navSVG/mac_mini_light__e7ojhup2ezau_large.svg"
     },
     {
       "id": 5, 
       "title": "Mac Studio",
-      "categoryId": 1, 
+      "categoryProductsId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-mac-studio-202306.JPG",
       "iconPath": "/images/productPages/mac/navSVG/mac_studio_light__fcr3455qk0i2_large.svg"
     },
     {
       "id": 6, 
       "title": "Studio Display",
-      "categoryId": 1, 
+      "categoryProductsId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-studio-display-202203.JPG"
     },
     {
       "id": 7, 
       "title": "Mac Pro",
-      "categoryId": 1, 
+      "categoryProductsId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-mac-pro-202306.JPG",
       "iconPath": "/images/productPages/mac/navSVG/mac_pro_light__bly2b0ua4seq_large.svg"
     },
     {
       "id": 8, 
       "title": "Pro Display XDR",
-      "categoryId": 1, 
+      "categoryProductsId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-mac-pro-display-202108.JPG"
     },
     {
       "id": 9, 
       "title": "iPad Pro",
-      "categoryId": 2, 
+      "categoryProductsId": 2, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 10, 
       "title": "iPad Air",
-      "categoryId": 2, 
+      "categoryProductsId": 2, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 11, 
       "title": "iPad",
-      "categoryId": 2, 
+      "categoryProductsId": 2, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 12, 
       "title": "iPad mini",
-      "categoryId": 2, 
+      "categoryProductsId": 2, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 13, 
       "title": "Apple Watch Series 9",
-      "categoryId": 4, 
+      "categoryProductsId": 4, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 14, 
       "title": "Apple Watch Ultra 2",
-      "categoryId": 4, 
+      "categoryProductsId": 4, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 15, 
       "title": "Apple Watch SE",
-      "categoryId": 4, 
+      "categoryProductsId": 4, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 16, 
       "title": "Apple Watch Hermès",
-      "categoryId": 4, 
+      "categoryProductsId": 4, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 17, 
       "title": "AirPods 2nd generation",
-      "categoryId": 5, 
+      "categoryProductsId": 5, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 18, 
       "title": "AirPods 3rd generation",
-      "categoryId": 5, 
+      "categoryProductsId": 5, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 19, 
       "title": "AirPods Pro",
-      "categoryId": 5, 
+      "categoryProductsId": 5, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 20, 
       "title": "AirPods Max",
-      "categoryId": 5, 
+      "categoryProductsId": 5, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 21, 
       "title": "AirTag",
-      "categoryId": 6, 
+      "categoryProductsId": 6, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 22, 
       "title": "AirTag 4 pack",
-      "categoryId": 6, 
+      "categoryProductsId": 6, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 22, 
       "title": "TV 4K",
-      "categoryId": 7, 
+      "categoryProductsId": 7, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 23, 
       "title": "Home App",
-      "categoryId": 8, 
+      "categoryProductsId": 8, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 24, 
       "title": "HomePod",
-      "categoryId": 6, 
+      "categoryProductsId": 6, 
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 25, 
       "title": "HomePod mini",
-      "categoryId": 6, 
+      "categoryProductsId": 6, 
       "imagePath": "/images/buyiPad/.JPG"
     }
   ],
