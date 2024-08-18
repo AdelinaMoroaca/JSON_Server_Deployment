@@ -223,14 +223,14 @@
     {
       "id": 1, 
       "title": "Mac",
-      "motto": "If you can dream it, Mac can do it.",
+      "motto": "If you can dream it,\nMac can do it.",
       "imagePath": "/images/category/Mac.JPG",
       "videoPath": "/videos/Mac.mp4"
     },
     {
       "id": 2, 
       "title": "iPad",
-      "motto": "Touch, draw, and type on one magical device.",
+      "motto": "Touch, draw, and type\non one magical device.",
       "imagePath": "/images/category/iPad.JPG",
        "videoPath": "/videos/iPad.mp4"
     },
@@ -262,7 +262,7 @@
     },
     {
       "id": 7, 
-      "title": "Apple-TV-4K",
+      "title": "Apple TV 4K",
       "motto": "The future hits home. On the big screen.",
       "imagePath": "/images/category/TV.JPG",
       "videoPath": "/videos/TV-Home.mp4"
@@ -279,7 +279,7 @@
     },
     {
       "id": 10, 
-      "title": "Apple-Gift-Card",
+      "title": "Apple Gift Card",
       "imagePath": "/images/category/GiftCard.JPG"
     }
   ],
@@ -378,6 +378,114 @@
       "title": "Pro Display XDR",
       "categoryId": 1, 
       "imagePath": "/images/buyMac/mac-card-40-mac-pro-display-202108.JPG"
+    },
+    {
+      "id": 9, 
+      "title": "iPad Pro",
+      "categoryId": 2, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 10, 
+      "title": "iPad Air",
+      "categoryId": 2, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 11, 
+      "title": "iPad",
+      "categoryId": 2, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 12, 
+      "title": "iPad mini",
+      "categoryId": 2, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 13, 
+      "title": "Apple Watch Series 9",
+      "categoryId": 4, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 14, 
+      "title": "Apple Watch Ultra 2",
+      "categoryId": 4, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 15, 
+      "title": "Apple Watch SE",
+      "categoryId": 4, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 16, 
+      "title": "Apple Watch Hermès",
+      "categoryId": 4, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 17, 
+      "title": "AirPods 2nd generation",
+      "categoryId": 5, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 18, 
+      "title": "AirPods 3rd generation",
+      "categoryId": 5, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 19, 
+      "title": "AirPods Pro",
+      "categoryId": 5, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 20, 
+      "title": "AirPods Max",
+      "categoryId": 5, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 21, 
+      "title": "AirTag",
+      "categoryId": 6, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 22, 
+      "title": "AirTag 4 pack",
+      "categoryId": 6, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 22, 
+      "title": "TV 4K",
+      "categoryId": 7, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 23, 
+      "title": "Home App",
+      "categoryId": 8, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 23, 
+      "title": "HomePod",
+      "categoryId": 6, 
+      "imagePath": "/images/buyiPad/.JPG"
+    },
+    {
+      "id": 24, 
+      "title": "HomePod mini",
+      "categoryId": 6, 
+      "imagePath": "/images/buyiPad/.JPG"
     }
   ],
   "display":[
