@@ -347,119 +347,81 @@
   "display":[
     {
       "id": 1,
-      "productsId": 1,
       "displayModel": "13 inch"
     },
     {
       "id": 2,
-      "productsId": 1,
       "displayModel": "15 inch"
     },
     {
       "id": 3,
-      "productsId": 2,
       "displayModel": "14 inch"
     },
     {
       "id": 4,
-      "productsId": 2,
       "displayModel": "16 inch"
     },
     {
       "id": 5,
-      "productsId": 3,
       "displayModel": "24 inch"
     }
   ],
   "chip":[
     {
       "id": 1,
-      "productsId": 1,
       "chipModel": "M2"
     },
     {
-      "id": 2,
-      "productsId": 1,
-      "chipModel": "M3"
-    },
-    {
       "id": 3,
-      "productsId": 2,
       "displayModel": "M3"
     },
     {
       "id": 4,
-      "productsId": 2,
       "displayModel": "M3 Pro"
     },
     {
       "id": 5,
-      "productsId": 2,
       "displayModel": "M3 Max"
-    },
-    {
-      "id": 6,
-      "productsId": 3,
-      "displayModel": "M3"
     }
   ],
   "storage":[
     {
       "id": 1,
-      "productsId": 1,
       "storageCapacity": "256GB SSD"     
     },
     {
       "id": 2,
-      "productsId": 1,
       "storageCapacity": "512GB SSD"   
     },
     {
       "id": 3,
-      "productsId": 2,
-      "storageCapacity": "512GB SSD"     
-    },
-    {
-      "id": 4,
-      "productsId": 2,
       "storageCapacity": "1TB SSD"   
     },
     {
-      "id": 6,
-      "productsId": 3,
+      "id": 4,
       "storageCapacity": "256GB"
     },
     {
-      "id": 7,
-      "productsId": 3,
+      "id": 5,
       "storageCapacity": "512GB"
     }
   ],
   "memory":[
     {
       "id": 1,
-      "productsId": 1,
       "unifiedMemory": "8GB"     
     },
     {
       "id": 2,
-      "productsId": 1,
       "unifiedMemory": "16GB"    
     },
     {
       "id": 3,
-      "productsId": 2,
       "unifiedMemory": "36GB"     
     },
     {
       "id": 4,
-      "productsId": 2,
       "unifiedMemory": "48GB"    
-    },
-    {
-      "id": 5,
-      "productsId": 3,
-      "storageCapacity": "8GB"
     }
   ],
     
