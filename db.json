@@ -291,42 +291,22 @@
       "modelSpecificity": "chip",
       "imagePath": "/images/buyMac/mac-card-40-macbook-air-13-15-202306.JPG",
       "iconPath": "/images/productPages/mac/navSVG/macbookair_light__dfypt7o3xfgy_large.svg",
-      "display": [
-      {
-      "id": 1,
-      "displayModel": "13 inch"
+      "display":{
+        "id": 1,
+        "displayModel": "13 inch"
       },
-      {
-        "id": 2,
-        "displayModel": "15 inch"        
-      }],
-      "chip": [
-        {
+      "chip":{
         "id": 1,
         "chipModel": "M2"
-        },
-        {
-          "id": 2,
-          "chipModel": "M3"        
-        }],
-      "storage": [
-        {
+      },
+      "storage":{
         "id": 1,
         "storageCapacity": "256GB SSD" 
-        },
-        {
-          "id": 2,
-          "storageCapacity": "512GB SSD"    
-        }],
-      "memory": [
-          {
+      },
+      "memory":{
           "id": 1,
           "unifiedMemory": "8GB Unified Memory" 
-          },
-          {
-          "id": 2,
-          "unifiedMemory": "16GB Unified Memory"    
-      }]
+      }
     },
     {
       "id": 2, 
