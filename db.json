@@ -387,7 +387,7 @@
       "basePrice": "899",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/storePages/buyiPad/ipad-card-40-pro-202405.JPG.JPG"
+      "imagePath": "/images/storePages/buyiPad/ipad-card-40-pro-202405.JPG"
     },
     {
       "id": 2, 
@@ -396,7 +396,7 @@
       "basePrice": "549",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/storePages/buyiPad/ipad-card-40-air-202405.JPG.JPG"
+      "imagePath": "/images/storePages/buyiPad/ipad-card-40-air-202405.JPG"
     },
     {
       "id": 3, 
@@ -405,7 +405,7 @@
       "basePrice": "329",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/storePages/buyiPad/ipad-card-40-ipad-202405.JPG.JPG"
+      "imagePath": "/images/storePages/buyiPad/ipad-card-40-ipad-202405.JPG"
     },
     {
       "id": 4, 
@@ -414,7 +414,7 @@
       "basePrice": "449",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/storePages/buyiPad/ipad-card-40-ipad-mini-202109.JPG.JPG"
+      "imagePath": "/images/storePages/buyiPad/ipad-card-40-ipad-mini-202109.JPG"
     },
     {
       "id": 1, 
