@@ -289,7 +289,7 @@
       "productsClass": "MacBook Air",
       "categoryProductsId": 1,
       "modelSpecificity": "chip",
-      "imagePath": "/images/buyMac/mac-card-40-macbook-air-13-15-202306.JPG",
+      "imagePath": "/images/storePages/buyMac/mac-card-40-macbook-air-13-15-202306.JPG",
       "iconPath": "/images/productPages/mac/navSVG/macbookair_light__dfypt7o3xfgy_large.svg",
       "display":{
         "id": 1,
@@ -319,7 +319,7 @@
       "basePrice": "1499",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/buyMac/mac-card-40-macbookpro-14-16-202310_GEO_US.JPG",
+      "imagePath": "/images/storePages/buyMac/mac-card-40-macbookpro-14-16-202310_GEO_US.JPG",
       "iconPath": "/images/productPages/mac/navSVG/macbook_pro_light__bvnmtmeikj1e_large.svg"
     },
     {
@@ -329,7 +329,7 @@
       "basePrice": "1249",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/buyMac/mac-card-40-imac-24-202310.JPG",
+      "imagePath": "/images/storePages/buyMac/mac-card-40-imac-24-202310.JPG",
       "iconPath": "/images/productPages/mac/navSVG/imac_light__cx5ex9nbqxme_large.svg"
     },
     {
@@ -339,7 +339,7 @@
       "basePrice": "499",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/buyMac/mac-card-40-mac-mini-202301.JPG",
+      "imagePath": "/images/storePages/buyMac/mac-card-40-mac-mini-202301.JPG",
       "iconPath": "/images/productPages/mac/navSVG/mac_mini_light__e7ojhup2ezau_large.svg"
     },
     {
@@ -349,7 +349,7 @@
       "basePrice": "1799",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/buyMac/mac-card-40-mac-studio-202306.JPG",
+      "imagePath": "/images/storePages/buyMac/mac-card-40-mac-studio-202306.JPG",
       "iconPath": "/images/productPages/mac/navSVG/mac_studio_light__fcr3455qk0i2_large.svg"
     },
     {
@@ -359,7 +359,7 @@
       "basePrice": "1499",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/buyMac/mac-card-40-studio-display-202203.JPG"
+      "imagePath": "/images/storePages/buyMac/mac-card-40-studio-display-202203.JPG"
     },
     {
       "id": 7, 
@@ -368,7 +368,7 @@
       "basePrice": "6599",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/buyMac/mac-card-40-mac-pro-202306.JPG",
+      "imagePath": "/images/storePages/buyMac/mac-card-40-mac-pro-202306.JPG",
       "iconPath": "/images/productPages/mac/navSVG/mac_pro_light__bly2b0ua4seq_large.svg"
     },
     {
@@ -378,7 +378,7 @@
       "basePrice": "4599",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/buyMac/mac-card-40-mac-pro-display-202108.JPG"
+      "imagePath": "/images/storePages/buyMac/mac-card-40-mac-pro-display-202108.JPG"
     },
     {
       "id": 1, 
@@ -387,7 +387,7 @@
       "basePrice": "899",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/buyiPad/.JPG"
+      "imagePath": "/images/storePages/buyiPad/.JPG"
     },
     {
       "id": 2, 
@@ -396,7 +396,7 @@
       "basePrice": "549",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/buyiPad/.JPG"
+      "imagePath": "/images/storePages/buyiPad/.JPG"
     },
     {
       "id": 3, 
@@ -405,7 +405,7 @@
       "basePrice": "329",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/buyiPad/.JPG"
+      "imagePath": "/images/storePages/buyiPad/.JPG"
     },
     {
       "id": 4, 
@@ -414,7 +414,7 @@
       "basePrice": "449",
       "currency": "$",
       "description":"",
-      "imagePath": "/images/buyiPad/.JPG"
+      "imagePath": "/images/storePages/buyiPad/.JPG"
     },
     {
       "id": 1, 
