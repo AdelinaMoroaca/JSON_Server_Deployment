@@ -306,13 +306,19 @@
       "memory":{
           "id": 1,
           "unifiedMemory": "8GB Unified Memory" 
-      }
+      },
+      "basePrice": "899",
+      "currency": "$",
+      "description":""
     },
     {
       "id": 2, 
       "productsClass": "MacBook Pro",
       "categoryProductsId": 1,
       "modelSpecificity": "inch",
+      "basePrice": "1499",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyMac/mac-card-40-macbookpro-14-16-202310_GEO_US.JPG",
       "iconPath": "/images/productPages/mac/navSVG/macbook_pro_light__bvnmtmeikj1e_large.svg"
     },
@@ -320,6 +326,9 @@
       "id": 3, 
       "productsClass": "iMac",
       "categoryProductsId": 1,
+      "basePrice": "1249",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyMac/mac-card-40-imac-24-202310.JPG",
       "iconPath": "/images/productPages/mac/navSVG/imac_light__cx5ex9nbqxme_large.svg"
     },
@@ -327,6 +336,9 @@
       "id": 4, 
       "productsClass": "Mac mini",
       "categoryProductsId": 1,
+      "basePrice": "499",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyMac/mac-card-40-mac-mini-202301.JPG",
       "iconPath": "/images/productPages/mac/navSVG/mac_mini_light__e7ojhup2ezau_large.svg"
     },
@@ -334,6 +346,9 @@
       "id": 5, 
       "productsClass": "Mac Studio",
       "categoryProductsId": 1,
+      "basePrice": "1799",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyMac/mac-card-40-mac-studio-202306.JPG",
       "iconPath": "/images/productPages/mac/navSVG/mac_studio_light__fcr3455qk0i2_large.svg"
     },
@@ -341,12 +356,18 @@
       "id": 6, 
       "productsClass": "Studio Display",
       "categoryProductsId": 1,
+      "basePrice": "1499",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyMac/mac-card-40-studio-display-202203.JPG"
     },
     {
       "id": 7, 
       "productsClass": "Mac Pro",
       "categoryProductsId": 1,
+      "basePrice": "6599",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyMac/mac-card-40-mac-pro-202306.JPG",
       "iconPath": "/images/productPages/mac/navSVG/mac_pro_light__bly2b0ua4seq_large.svg"
     },
@@ -354,96 +375,144 @@
       "id": 8, 
       "productsClass": "Pro Display XDR",
       "categoryProductsId": 1,
+      "basePrice": "4599",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyMac/mac-card-40-mac-pro-display-202108.JPG"
     },
     {
       "id": 1, 
       "productsClass": "iPad Pro",
       "categoryProductsId": 2,
+      "basePrice": "899",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 2, 
       "productsClass": "iPad Air",
       "categoryProductsId": 2,
+      "basePrice": "549",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 3, 
       "productsClass": "iPad",
       "categoryProductsId": 2,
+      "basePrice": "329",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 4, 
       "productsClass": "iPad mini",
       "categoryProductsId": 2,
+      "basePrice": "449",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 1, 
       "productsClass": "Apple Watch Series 9",
       "categoryProductsId": 4,
+      "basePrice": "399",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 2, 
       "productsClass": "Apple Watch Ultra 2",
       "categoryProductsId": 4,
+      "basePrice": "799",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 3, 
       "productsClass": "Apple Watch SE",
       "categoryProductsId": 4,
+      "basePrice": "249",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 4, 
       "productsClass": "Apple Watch Hermès",
       "categoryProductsId": 4,
+      "basePrice": "1249",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 1, 
       "productsClass": "AirPods 2nd generation",
       "categoryProductsId": 5,
+      "basePrice": "129",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 2, 
       "productsClass": "AirPods 3rd generation",
       "categoryProductsId": 5,
+      "basePrice": "169",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 3, 
       "productsClass": "AirPods Pro",
       "categoryProductsId": 5,
+      "basePrice": "249",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 4, 
       "productsClass": "AirPods Max",
       "categoryProductsId": 5,
+      "basePrice": "549",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 1, 
       "productsClass": "AirTag",
       "categoryProductsId": 6,
+      "basePrice": "29",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 2, 
       "productsClass": "AirTag 4 pack",
       "categoryProductsId": 6,
+      "basePrice": "99",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 1, 
-      "productsClass": "TV 4K",
+      "productsClass": "Apple TV 4K",
       "categoryProductsId": 7,
+      "basePrice": "129",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
@@ -456,12 +525,18 @@
       "id": 1, 
       "productsClass": "HomePod",
       "categoryProductsId": 9,
+      "basePrice": "299",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     },
     {
       "id": 2, 
       "productsClass": "HomePod mini",
       "categoryProductsId": 9,
+      "basePrice": "99",
+      "currency": "$",
+      "description":"",
       "imagePath": "/images/buyiPad/.JPG"
     }
   ],
